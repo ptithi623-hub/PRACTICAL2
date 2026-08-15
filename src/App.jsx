@@ -23,6 +23,13 @@ function App() {
       course: "Software Engineering",
       grade: "B+",
     },
+    {
+      id: 4,
+      name: "Amit Kumar",
+      age: 19,
+      course: "Software Engineering",
+      grade: "B+",
+    },
   ];
 
   return (
